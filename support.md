@@ -1,3 +1,1 @@
-Служба поддержки: u.smartmoney@gmail.com
-
-Support email: u.smartmoney@gmail.com
+Support email: <a href="mailto:u.smartmoney@gmail.com">u.smartmoney@gmail.com</a>
